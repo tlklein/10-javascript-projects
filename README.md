@@ -1,5 +1,5 @@
 # Countdown Timer Application
-This is a countdown timer application. 
+This is a simple countdown timer application. 
 
 # Works Cited / References
 1. 10 Projects in 10 Hours GitHub
