@@ -5,40 +5,48 @@
 }
 
 body {
-    background-image: url("./snow.png");
-    background-size: cover;
-    background-position: center center;
+    background-color: rebeccapurple;
     display: flex;
     flex-direction: column;
     align-items: center;
-    min-height: 100vh;
-    font-family: "Poppins", sans-serif;
-    margin: 0;
-}
-
-h1 {
-    font-weight: normal;
-    font-size: 4rem;
-    margin-top: 5rem;
-}
-
-.countdown-container {
-    display: flex;
-    flex-wrap: wrap;
     justify-content: center;
+    font-family: "Poppins", sans-serif;
+    margin: 0 0 3rem;
+    min-height: 100vh;
 }
 
-.big-text {
-    font-weight: bold;
-    font-size: 6rem;
-    line-height: 1;
-    margin: 1rem 2rem;
+h3 {
+    color: #fff;
+    font-size: 1.8rem;
+    margin-bottom: 0;
 }
 
-.countdown-el {
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 0.5rem 0;
     text-align: center;
 }
 
-.countdown-el span {
-    font-size: 1.3rem;
+li a {
+    color: #fff;
+    font-size: 1.2rem;
+    text-decoration: none;
+}
+
+footer {
+    background-color: rgb(119, 65, 173);
+    color: #f5f5f5;
+    padding: 1rem;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer a {
+    color: #f5f5f5;
 }
