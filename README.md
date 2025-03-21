@@ -66,7 +66,7 @@ Design Inspiration: [UIDesignDaily](https://uidesigndaily.com/posts/photoshop-we
 ## How to Use  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/10-javascript-projects.git
+   git clone https://github.com/tlklein/10-javascript-projects.git
    ```
 2. Open the project folder and navigate to the desired project.  
 3. Open the `index.html` file in your browser to see the project in action.  
